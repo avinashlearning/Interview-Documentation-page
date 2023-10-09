@@ -1,5 +1,4 @@
 Java is an object oriented programming language. Object oriented programming model visualizes everything as object. An object, in object oriented programming concept, is a real world entity which has both state and behavior. A class is a template for same type of objects. For example, A Car is a class which acts as a template for car1, car2, car3… objects. The whole object oriented programming paradigm or simply OOP model is based on four fundamental concepts. They are – Inheritance, Abstraction, Polymorphism and Encapsulation. These are often called as four main pillars of the object oriented programming model. Let’s see these OOP concepts one by one and how they are implemented in Java.
-
 Below is the Java OOP Concepts Cheat Sheet. You can download it and refer whenever required.
 
 Java OOP Concepts Cheat Sheet
